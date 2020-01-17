@@ -1,2 +1,2 @@
 # rock-paper-scissor
-beginner
+I have made this program as a beginner project. 
